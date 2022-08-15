@@ -1,0 +1,3 @@
+# Report Analysis
+
+Based on the data after organizination, I am able to infer that a higher budget for schools or students does not directly correlate to better performance. In fact you can see that schools with lower budgets end up performing much better in Math and Reading. Another observable trend you could see is by the school type. If you look at the very last data set, you can see that Charter schools outperform District schools by a substantial amount in Math and Reading.
